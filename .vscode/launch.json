@@ -1,0 +1,52 @@
+{
+	"version": "0.2.0",
+	"configurations": [
+	  {
+		"name": "Run servers",
+		"type": "node",
+		"request": "launch",
+		"args": [
+		  "Server.ts"
+		],
+		"runtimeArgs": [
+		  "--no-experimental-fetch",
+		  "--loader",
+		  "ts-node/esm"
+		],
+		"cwd": "${workspaceRoot}/server",
+		"program": "${input:chooseFile}",
+		"internalConsoleOptions": "openOnSessionStart"
+	  },
+	  {
+		"name": "Debug Bun",
+		"type": "bun",
+		"args": ["run"],
+		"request": "launch",
+		"program": "${input:chooseFile}",
+		"cwd": "${workspaceRoot}/server",
+		"stopOnEntry": false,
+		"internalConsoleOptions": "openOnSessionStart"    
+	  },
+	  {
+		"name": "Test Program",
+		"type": "bun",
+		"args": ["test"],
+		"request": "launch",
+		"program": "test/*.spec.ts",
+		"cwd": "${workspaceRoot}/server",
+		"stopOnEntry": false,
+		"internalConsoleOptions": "openOnSessionStart" 
+	  }
+	],
+	"inputs": [
+		{
+		  "id": "chooseFile",
+		  "type": "command",
+		  "command": "extension.commandvariable.file.fileAsKey",
+		  "args": {
+			"test.ts": "${file}",
+			"@default": "Server.ts"
+		  }
+		}
+	]
+}

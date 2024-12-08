@@ -1,0 +1,1 @@
+function createPdf(e){new jsPDF("p","pt","letter").html(document.getElementById(e),{callback:function(e){e.save("Hello")},margin:10})}

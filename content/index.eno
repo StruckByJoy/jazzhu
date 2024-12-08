@@ -1,0 +1,73 @@
+title: Homepage
+pictureAlt: Flowers in a forest field
+
+mainKeywords:
+ - Jasmin Hu
+ - Fralith
+ - Uprooted HomeKin
+keywords:
+ - Book
+
+#section
+type: dualArticle
+panelLeftRatio: 8
+
+-- description
+@[figure](Uprooted Homekin cover|showPhone)
+
+When his life in SecondHome is shattered, twelve-year-old Fralith’s desperate attempt to escape lands him on an entirely foreign planet where metal beasts roar, strange trees cast light, and people stand around staring at rectangles. In his struggle to survive, he accidentally-on-purpose stops a kidnapping and ends up captured.
+
+With no way out and no way home, Fralith struggles to puzzle out the rules of the world before he gets eaten. But not all things are out to get him, and some are even trying to save him. When a flame-haired man begins to teach him the ways of this world, Fralith starts to realize that there might be hope, healing, and family on this strange planet.
+
+Uprooted HomeKin is a heart-warming, hunger-inducing, adorable story about healing, home, and encountering an entirely alien world.
+
+“An engaging portrayal of an out-of-place youth that showcases the beauty of language.” ─*Kirkus Reviews
+-- description
+
+-- bodyRight
+@[figure](Uprooted Homekin cover|hidePhone)
+
+@[button](Buy Now|submit|https://google.com)
+-- bodyRight
+
+#section
+type: separator
+position: top
+
+#section
+type: contact
+subtitle: Sign up to my newsletter
+pictureAlt: Contact me
+descriptionLeft: Be the first to receive exclusive content, sneak peeks, updates, and more!
+endPoint: https://services.jazzhu.com/mailingList
+twoPanels: true
+pictureLeft: false
+contactHeader: true
+emailPlaceholder: Your email
+
+#section
+type: separator
+position: bottom
+
+#section
+type: dualArticle
+panelLeftRatio: 4
+
+-- description
+@[image](author headshot)
+
+@[figure](Blep|hidePhone)
+-- description
+
+-- bodyRight
+**Although** still in her teens, Jazz Hu has traveled the world and experienced a wider variety of cultures firsthand than most people do in a lifetime. As a neurodivergent (dyslexic), third-culture kid (TCK) herself, she has always been fascinated with such distinctions and how they impact transplanted individuals trying to find their place within a new culture—a foundational theme of much of her writing.
+
+Jazz currently lives with her loving, multicultural parents and two siblings in Halifax, Nova Scotia, where she enjoys fostering dogs. She has a wide array of hobbies and interests, and although she always has a story of her own on the go, she also loves dissecting other works of fiction to figure out exactly how they work (and why). Although she has many indoor hobbies, like drawing, baking, and playing the violin, she also enjoys simply getting outside in nature, rock climbing, bird watching, and hiking whenever the weather permits.
+
+To connect with the author, sign up to her newsletter or follow her on Instagram [@jasjoyhu](https://www.instagram.com/jasjoyhu/).
+-- bodyRight
+
+#css
+heroPadding: 0 0 4vh 0
+heroOpacity: 0.3
+heroOverlayColor: #3f485d

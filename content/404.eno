@@ -1,0 +1,13 @@
+title: We could not find that page
+subtitle: Did you mistype it?
+pictureAlt: Exasperated blep creature
+
+#section
+type: hero
+
+cssClass: fullscreen
+
+#css
+heroPadding: 5rem 0 5rem 0
+heroOpacity: 0.4
+heroOverlayColor: #3f485d
