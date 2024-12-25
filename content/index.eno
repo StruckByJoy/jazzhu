@@ -13,7 +13,7 @@ type: dualArticle
 panelLeftRatio: 8
 
 -- description
-@[figure](Uprooted Homekin cover|showPhone)
+@[image](Uprooted Homekin cover|showPhone|https://google.com)
 
 When his life in SecondHome is shattered, twelve-year-old Fralith’s desperate attempt to escape lands him on an entirely foreign planet where metal beasts roar, strange trees cast light, and people stand around staring at rectangles. In his struggle to survive, he accidentally-on-purpose stops a kidnapping and ends up captured.
 
@@ -21,11 +21,11 @@ With no way out and no way home, Fralith struggles to puzzle out the rules of th
 
 Uprooted HomeKin is a heart-warming, hunger-inducing, adorable story about healing, home, and encountering an entirely alien world.
 
-“An engaging portrayal of an out-of-place youth that showcases the beauty of language.” ─*Kirkus Reviews
+“An engaging portrayal of an out-of-place youth that showcases the beauty of language.” ─*Kirkus Reviews*
 -- description
 
 -- bodyRight
-@[figure](Uprooted Homekin cover|hidePhone)
+@[image](Uprooted Homekin cover|hidePhone|https://google.com)
 
 @[button](Buy Now|submit|https://google.com)
 -- bodyRight
