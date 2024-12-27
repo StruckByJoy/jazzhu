@@ -47,7 +47,7 @@ $yellow: #ebab49
 
 anchor-hover-color: $yellow
 anchor-top-margin: -140px
-articleContainer-padding: 2rem 0 0 0
+articleContainer-padding: 0 20% 4rem
 articleContainer-container-background: unset
 body-background: $background
 body-font: $bodyFont
@@ -100,6 +100,14 @@ navbar-link-margin-left-desktop: 3.5rem
 navbar-logo-margin: 0 0.4rem 0 0
 navbar-logo-width: 85px
 navbar-nav-margin-mobile: 10px 0 0 0
+quote-display: none
+quote-display-phone: block
+quote-float: unset
+quote-font-size: unset
+quote-text-align: unset
+quote-width: unset
+quote-line-height: unset
+q-margin: 2rem 0 0 0
 relatedArticles-card-stock-h1-margin: 0 0 6rem 0
 scrollTarget-top: -11rem
 section-container-padding: 0
@@ -108,7 +116,7 @@ section-separator-container-padding-phone: 0
 section-carousel-padding: 6rem 0 9rem 0
 section-carousel-padding-tablet: 4rem 0 7rem 0
 section-carousel-padding-phone: 4rem 0 6rem 0
-section1Wrapper-padding: 4rem 0
+section1Wrapper-padding: 4rem 0 2rem 0
 section1Wrapper-h1-margin: 0 0 2rem 0
 section1Wrapper-dual-article-left-padding: 0 3rem 0 1rem
 section1Wrapper-dual-article-figure-rotate: 6deg

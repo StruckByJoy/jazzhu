@@ -20,15 +20,23 @@ When his life in SecondHome is shattered, twelve-year-old Fralith’s desperate 
 With no way out and no way home, Fralith struggles to puzzle out the rules of the world before he gets eaten. But not all things are out to get him, and some are even trying to save him. When a flame-haired man begins to teach him the ways of this world, Fralith starts to realize that there might be hope, healing, and family on this strange planet.
 
 Uprooted HomeKin is a heart-warming, hunger-inducing, adorable story about healing, home, and encountering an entirely alien world.
-
-“An engaging portrayal of an out-of-place youth that showcases the beauty of language.” ─*Kirkus Reviews*
 -- description
 
 -- bodyRight
+@[quote](An engaging portrayal of an out-of-place youth that showcases the beauty of language.|[Kirkus Reviews](https://www.kirkusreviews.com/book-reviews/jazz-hu/uprooted-homekin/)|true)
+
 @[image](Uprooted Homekin cover|hidePhone|https://google.com)
 
 @[button](Buy Now|submit|https://google.com)
 -- bodyRight
+
+#section
+type: article
+cssClass: centered hidePhone
+
+-- body
+“An engaging portrayal of an out-of-place youth that showcases the beauty of language.” ─*[Kirkus Reviews](https://www.kirkusreviews.com/book-reviews/jazz-hu/uprooted-homekin/)*
+-- body
 
 #section
 type: separator
