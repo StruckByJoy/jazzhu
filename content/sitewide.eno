@@ -95,7 +95,7 @@ menu-container-min-height: $menuHeight
 menu-container-height: $menuHeight
 menu-container-padding: 110px 4rem
 menu-container-padding-phone: 10px 0 0 25px
-navbar-background: url(images/index.1440.webp) 0 551px
+navbar-background: url(images/navbar.webp) 0 629px
 navbar-caption-width: 34rem
 navbar-caption-width-phone: 20rem
 navbar-font: ForrestInformal
