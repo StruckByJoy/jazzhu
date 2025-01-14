@@ -14,7 +14,7 @@ id: books
 panelLeftRatio: 8
 
 -- description
-@[image](Uprooted Homekin cover|showPhone|mailto:jazz@jazzhu.com?subject=Preorder Uprooted Homekin&body=Please tell me when I can buy your book.)
+@[image](Uprooted Homekin cover|showPhone|https://books.friesenpress.com/store/title/119734000379991396)
 
 When his life in SecondHome is shattered, twelve-year-old Fralith’s desperate attempt to escape lands him on an entirely foreign planet where metal beasts roar, strange trees cast light, and people stand around staring at rectangles. In his struggle to survive, he accidentally-on-purpose stops a kidnapping and ends up captured.
 
@@ -26,9 +26,9 @@ Uprooted HomeKin is a heart-warming, hunger-inducing, adorable story about heali
 -- bodyRight
 @[quote](An engaging portrayal of an out-of-place youth that showcases the beauty of language.|[Kirkus Reviews](https://www.kirkusreviews.com/book-reviews/jazz-hu/uprooted-homekin/)|true)
 
-@[image](Uprooted Homekin cover|hidePhone|mailto:jazz@jazzhu.com?subject=Preorder Uprooted Homekin&body=Please tell me when I can buy your book.)
+@[image](Uprooted Homekin cover|hidePhone|https://books.friesenpress.com/store/title/119734000379991396)
 
-@[button](Preorder|submit|mailto:jazz@jazzhu.com?subject=Preorder Uprooted Homekin&body=Please tell me when I can buy your book.)
+@[button](Order|submit|https://books.friesenpress.com/store/title/119734000379991396)
 -- bodyRight
 
 #section
