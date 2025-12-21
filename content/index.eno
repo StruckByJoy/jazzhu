@@ -46,12 +46,12 @@ position: top
 #section
 type: contact
 subtitle: Sign up to my newsletter
-pictureAlt: Contact me
-descriptionLeft: Be the first to receive exclusive content, sneak peeks, updates, and more!
 endPoint: https://services.jazzhu.com/mailingList
 twoPanels: true
 pictureLeft: false
 contactHeader: true
+pictureAlt: Contact me
+descriptionLeft: Be the first to receive exclusive content, sneak peeks, updates, and more!
 emailPlaceholder: Your email
 
 #section
