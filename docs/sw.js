@@ -1,6 +1,6 @@
-const staticCache = "JazzHu|UprootedHomekinbyJasminHu-cache-v1";
-var prefetchList = ["spa","index"];
-var imageNames = [""];
+const staticCache = "JazzHu|UprootedHomekinbyJasminHu-cache-v4";
+var prefetchList = ["spa","fonts/ForrestInformal-Regular.woff2","https://cdn.ampproject.org/v0.js","https://cdn.ampproject.org/v0/amp-sidebar-0.1.js","https://cdn.ampproject.org/v0/amp-animation-0.1.js","https://cdn.ampproject.org/v0/amp-position-observer-0.1.js","https://cdn.ampproject.org/v0/amp-form-0.1.js","index"];
+var imageNames = ["navbar","Uprooted Homekin cover","author headshot"];
 
 var supportsWebP = determineIfSupportWebp();
 var supportsGoogleHostedAMP = determineIfSupportsGoogleHostedAMP();
