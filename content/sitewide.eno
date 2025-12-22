@@ -52,29 +52,29 @@ anchor-top-margin: calc(-$menuHeight - 2rem)
 articleContainer-padding: 0 20% 4rem
 articleContainer-container-background: unset
 body-background: $background
-body-font: $bodyFont
+body-font-family: $bodyFont
 builder-sidebar-background: $sidebarBackground
 card-stock-h1-margin: 0 0 2.5rem 0
 card-stock-h1-margin-phone: -1rem 0 4rem 0
 card-stock-padding: 0
 card-stock-section-subtitle-margin: 0
-contact-h1-font-size: 3.3rem
-contact-h1-font-size-tablet: 2.7rem
 contact-background: $background
 contact-font: Courier New
 contact-form-padding: 2rem 0 1rem 0
 contact-form-svg-padding: 1.5rem
 contact-form-svg-padding-phone: 0 1.5rem
-contact-left-margin-phone: 0 0 2rem 0
-contact-left-padding: 0 2rem 0 1rem
-contact-left-section-subtitle-text-align: center
+contact-input-width: auto
+contact-input-width-phone: 95%
+contact-label-font-size: 28px
+contact-margin-phone: 0 0 2rem 0
+contact-padding: 0 2rem 0 1rem
 contact-height: 100%
-contact-margin: 6rem 0 0 0
+contact-margin: 7rem 0 0 0
 contact-margin-phone: 1rem 0 0 0
 contact-padding: 1rem 1rem 2rem 1rem
-contact-width: auto
-contact-width-phone: 95%
-contactLabel-font-size: 28px
+contactLeft-h1-font-size: 3.3rem
+contactLeft-h1-font-size-tablet: 2.7rem
+contactLeft-section-subtitle-text-align: center
 copyright-margin: 2rem 0 0 0
 copyright-container-background: $green
 copyright-container-padding: 4rem
@@ -89,18 +89,16 @@ h1-font: ForrestInformal
 h1-font-size: 4.5rem
 h1-font-size-phone: 3rem
 hamburgerMenuBreak: 1395px
-hero-align-items: flex-end
-heroCaption-text-align: center
 menu-container-min-height: $menuHeight
 menu-container-height: $menuHeight
 menu-container-padding: 110px 4rem
 menu-container-padding-phone: 10px 0 0 25px
+navbar-a-margin-left-desktop: 3.5rem
 navbar-background: url(images/navbar.webp) 0 629px
 navbar-caption-width: 34rem
 navbar-caption-width-phone: 20rem
 navbar-font: ForrestInformal
 navbar-font-size: 3.05rem
-navbar-link-margin-left-desktop: 3.5rem
 navbar-logo-margin: 0 0.4rem 0 0
 navbar-logo-width: 85px
 navbar-nav-margin-mobile: 10px 0 0 0
@@ -112,14 +110,10 @@ quote-text-align: unset
 quote-width: unset
 quote-line-height: unset
 q-margin: 2rem 0 0 0
-relatedArticles-card-stock-h1-margin: 0 0 6rem 0
 scrollTarget-top: -11rem
 section-container-padding: 0
 section-container-padding-phone: 0 2rem
 section-separator-container-padding-phone: 0
-section-carousel-padding: 6rem 0 9rem 0
-section-carousel-padding-tablet: 4rem 0 7rem 0
-section-carousel-padding-phone: 4rem 0 6rem 0
 section1Wrapper-padding: 4rem 0 2rem 0
 section1Wrapper-h1-margin: 0 0 2rem 0
 section1Wrapper-dual-article-left-padding: 0 3rem 0 1rem
@@ -138,8 +132,6 @@ section3Wrapper-figure-margin: 0 1rem 16rem 0
 section3Wrapper-figure-margin-phone: 0
 section3Wrapper-figure-padding-phone: 0 1.5rem;
 sectionContact-padding: 0
-sectionRelatedArticles-padding: 8rem 0
-sectionRelatedArticles-padding-tablet: 7rem 0
 section-title-line-height: 2.8
 submit-margin: 3rem 0 0 0
 submit-margin-phone: 2rem 0 0 0

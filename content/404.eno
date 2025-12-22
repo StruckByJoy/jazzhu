@@ -8,6 +8,6 @@ type: hero
 cssClass: fullscreen
 
 #css
-heroPadding: 5rem 0 5rem 0
-heroOpacity: 0.4
-heroOverlayColor: #3f485d
+hero-container-padding: 5rem 0 5rem 0
+hero-overlay-background-color: #3f485d
+hero-overlay-opacity: 0.4
