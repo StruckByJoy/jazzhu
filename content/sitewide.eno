@@ -93,12 +93,14 @@ menu-container-min-height: $menuHeight
 menu-container-height: $menuHeight
 menu-container-padding: 110px 4rem
 menu-container-padding-phone: 10px 0 0 25px
+navbar-a-font: 3.05rem ForrestInformal
+navbar-a-font-size-phone: 2.5rem
 navbar-a-margin-left-desktop: 3.5rem
+navbar-a-margin-phone: 1rem 0
+builder-sidebar-padding: 1rem
 navbar-background: url(images/navbar.avif) 0 629px
 navbar-caption-width: 34rem
 navbar-caption-width-phone: 20rem
-navbar-font: ForrestInformal
-navbar-font-size: 3.05rem
 navbar-logo-margin: 0 0.4rem 0 0
 navbar-logo-width: 85px
 navbar-nav-margin-mobile: 10px 0 0 0
